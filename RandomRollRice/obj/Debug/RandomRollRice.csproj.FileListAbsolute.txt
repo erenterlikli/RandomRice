@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\bin\Debug\RandomRollRice.exe.config
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\bin\Debug\RandomRollRice.exe
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\bin\Debug\RandomRollRice.pdb
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.Form1.resources
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.Properties.Resources.resources
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.exe
+C:\Users\Eren\source\repos\RandomRollRice\RandomRollRice\obj\Debug\RandomRollRice.pdb
